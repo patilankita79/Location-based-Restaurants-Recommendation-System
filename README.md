@@ -5,7 +5,7 @@ Big Data Management and Analysis Final Project
 Designed and implemented location based static and dynamic recommendation system for restaurants based on user input such as state, city, type of food. 
 <br>
 <b>Technologies & languages used:</b>
-<li>Apache Spark </li> <li>Scala</li><li> Python </li>Kafka <li> Kibana</li> <li> Elastic search </li>
+<li>Apache Spark </li> <li>Scala</li><li> Python </li> <li>Kafka</li> <li> Kibana</li> <li> Elastic search </li>
 <br>
 <b>(1) Static Recommendation System </b> <br/>
 -- Implemented collaborative filtering to recommend restaurants <br/>
