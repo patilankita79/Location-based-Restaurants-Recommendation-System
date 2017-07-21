@@ -1,5 +1,5 @@
 # Location-based-Restaurants-Recommendation-System
-Big Data Management and Analysis Final Project
+CS6350 Big Data Management and Analytics Final Project
 
 <hr>
 Designed and implemented location based static and dynamic recommendation system for restaurants based on user input such as state, city, type of food. 
