@@ -10,7 +10,7 @@ Designed and implemented location based static and dynamic recommendation system
 <b>(1) Static Recommendation System </b> <br/>
 -- Implemented collaborative filtering to recommend restaurants <br/>
 -- Technologies used => Apache Spark, Scala <br/>
-
+<br />
 <b>(2) Dynamic Recommendation System </b> <br/>
 -- Used Kafka server for streaming the data, Apache Spark for recommendation and visualization using Kibana
 
